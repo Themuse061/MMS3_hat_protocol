@@ -7,4 +7,5 @@
   (lib (name "CustomNetTie")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-footprints/CustomNetTie.pretty")(options "")(descr ""))
   (lib (name "PgndNetTie")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-footprints/PgndNetTie.pretty")(options "")(descr ""))
   (lib (name "QRcode")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-footprints/QRcode.pretty")(options "")(descr ""))
+  (lib (name "TXU0104PWR")(type "KiCad")(uri "${KIPRJMOD}/lib/TXU0104PWR.pretty")(options "")(descr ""))
 )
