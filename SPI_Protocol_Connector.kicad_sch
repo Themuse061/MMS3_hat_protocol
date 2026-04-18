@@ -2733,7 +2733,7 @@
 		)
 		(uuid "d46b1c8b-f015-4a11-a0d1-70db9d36e52e")
 	)
-	(label "V_2nd"
+	(label "V_SEL"
 		(at 40.64 163.83 180)
 		(effects
 			(font

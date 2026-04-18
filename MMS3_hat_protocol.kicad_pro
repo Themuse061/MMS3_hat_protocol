@@ -194,7 +194,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -613,6 +614,10 @@
       {
         "netclass": "PWR",
         "pattern": "*SW_*V*"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "*V_SEL*"
       }
     ]
   },
@@ -1062,7 +1067,7 @@
         "uuid": "6596548a-44e0-46d8-8624-fd71cf4a3e17"
       }
     ],
-    "used_designators": "D6,D15-18,#PWR88,#PWR139-148,R37-44",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
